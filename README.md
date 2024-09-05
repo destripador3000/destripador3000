@@ -3,7 +3,7 @@
 
 - 🌱 I am a software developer specializing in Python and Go.
 
-- 💬 Ask me about **Python, Powershell, Bash, Go **
+- 💬 Ask me about **Python, Powershell, Bash, Go** 
 
 - 📫 How to reach me **juanestebanvalencia722@gmail.com**
 
