@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban</h1>
-<h3 align="center">I'm pentester an software developer</h3>
+<h3 align="center">I am a penetration tester and software developer.</h3>
 
 - 🌱 I am a software developer specializing in Python and Go.
 
