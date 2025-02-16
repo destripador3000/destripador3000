@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban</h1>
 <h3 align="center">I am a penetration tester and software developer.</h3>
 
-- 🌱 I am a software developer specializing in Python and Go.
 
-- 💬 Ask me about **Python, Powershell, Bash, Go** 
-
-- 📫 How to reach me **juanestebanvalencia722@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
