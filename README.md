@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban</h1>
-<h3 align="center">I am a penetration tester and software developer.</h3>
+
+<li>Analisis de Malware</li>
+<li>Forense Tools</li>
+<li>Pentesting</li>
+<li>Software developing</li>
+
 
 
 
