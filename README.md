@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban</h1>
 
-<li class="text-decoration:none">Analisis de Malware</li>
+<li>Malware Analysis</li>
 <li>Forense Tools</li>
 <li>Pentesting</li>
 <li>Software developing</li>
