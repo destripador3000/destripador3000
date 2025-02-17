@@ -9,7 +9,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/juan-vl/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" widht="40"></a>
+<a href="https://www.linkedin.com/in/juan-vl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-vl/" height="30" width="40" /></a>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
