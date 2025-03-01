@@ -8,6 +8,9 @@
 <li>Software developing</li>
 
 <h3 align="left">Languages</h3>
+
+
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=destripador3000&layout=compact&theme=radical)
 
 
