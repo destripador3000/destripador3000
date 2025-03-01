@@ -7,7 +7,7 @@
 <li>Pentesting</li>
 <li>Software developing</li>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=destripador3000layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=destripador3000&layout=compact&theme=radical)
 
 
 <h3 align="left">Connect with me:</h3>
