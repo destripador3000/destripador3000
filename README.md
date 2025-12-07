@@ -11,7 +11,7 @@
 
 
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=destripador3000&layout=compact&theme=radical)
+
 
 
 <h3 align="left">Connect with me:</h3>
